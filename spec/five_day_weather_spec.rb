@@ -1,6 +1,5 @@
 require 'spec_helper'
 
-
   describe Weather do
 
     context ' Forecast weather testing by id' do 
@@ -31,4 +30,3 @@ require 'spec_helper'
       end 
     end 
   end 
-  

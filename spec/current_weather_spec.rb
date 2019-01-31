@@ -1,9 +1,6 @@
 require 'spec_helper'
 
-
-
 describe Weather do
-
   context 'Current weather tetsing  by name' do 
 
     before(:all) do 
@@ -13,7 +10,6 @@ describe Weather do
 
     it 'Latitude should be a float ' do 
       expect(@weather.get_latitude).to be_kind_of(Float)
-
     end 
 
     it 'Weather description should be a string' do
@@ -65,12 +61,12 @@ describe Weather do
     before(:all) do 
       @weather_city_id = Weather.new.current 
       @weather_city_id.current_weather_id('519188')
-     end  
+     end 
+
      it 'Latitude should be a float ' do 
       expect(@weather_city_id.get_latitude).to be_kind_of(Float)
     end 
      
-
     it 'Weather description should be a string' do
       expect(@weather_city_id.get_weather_description).to be_kind_of(String)
     end 
