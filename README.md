@@ -10,7 +10,7 @@ This weather forecast application was created to conduct unit tests on the weath
 #The gems required for this project were http,json, and rspec.
 
 ### How to download
-1. git clone the the repo unto your termina abd then save it or download it as a zip file on your computer.
+1. git clone the the repo unto your terminal and then save it or download it as a zip file on your computer.
 
 ### How to use it 
 1. To use the weather application, you need to get your weather API key for both the current weather and  the five_day or three hour weather forcasts. You can create your own account and get you own api key.  You can use these links to help you https://openweathermap.org/current),https://openweathermap.org/forecast5.
