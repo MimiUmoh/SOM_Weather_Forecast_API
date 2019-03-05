@@ -1,13 +1,13 @@
 # SOM_Weather_Forecast_API
 
-###Description 
-This weather forecast application was created to conduct unit tests on the weather Api.
+### Description 
+For this project I created a Service Object Model that will easily allows for the conducting of API/Integration tests.
 
 
-##Languages used 
+## Languages used 
 
-#The language used for this project was Ruby.
-#The gems required for this project were http,json, and rspec.
+1. The language used for this project was Ruby.
+2. The gems required for this project were http,json, and rspec.
 
 ### How to download
 1. git clone the the repo unto your terminal and then save it or download it as a zip file on your computer.
@@ -20,7 +20,7 @@ This weather forecast application was created to conduct unit tests on the weath
 5. Once you have done all of this you cna run rspec in the terminal to seeyour reuslts. You will be otld whether or not there were any failures in your test.
  
  
-#### You can view the page [here]()
+#### You can view the page 
 
 1. Priotisation of tests 
 2. Planning
