@@ -4,14 +4,10 @@
 For this project I created a Service Object Model that will easily allows for the conducting of API/Integration tests.
 
 
-## Languages used 
+## Language used and Ruby Gems 
 
 1. The language used for this project was Ruby.
-<<<<<<< HEAD
-2. The gems required for this project were HttParty, Json,  RSpec, and DotENV.
-=======
-2. The gems required for this project were http,json, and rspec.
->>>>>>> 3b4c0a0ff4efc79816a09457b4952ab0e0e37eba
+2. The gems required for this project are HttParty, Json,  RSpec, and DotENV. Therefore, If you dont dont have these gems do: gem install "name of gem". For examples 'gem install rspec".
 
 ### How to download
 1.	To download a copy click on 'clone or download' and you can download it as a zip file.
@@ -25,14 +21,4 @@ For this project I created a Service Object Model that will easily allows for th
 4. You write tests within the spec folder
 5. Once you have done all of this, you can run ‘rspec’ on your terminal on the text editor to see your results. You will then be told whether or not there were any failures in your test.
  
-<<<<<<< HEAD
-=======
-#### You can view the page 
-
-1. Priotisation of tests 
-2. Planning
-3. Not enough tetsing
-4. Repetetive tests
-5. Looping 
->>>>>>> 3b4c0a0ff4efc79816a09457b4952ab0e0e37eba
  
